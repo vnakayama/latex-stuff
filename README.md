@@ -1,1 +1,1 @@
-# latex-stuff
+# LaTeX Files
